@@ -1,6 +1,6 @@
 public class Main {
     public static String greet() {
-        return "Hello, Jenkins CI/CD!";
+        return "Philip";
     }
 
     public static void main(String[] args) {
