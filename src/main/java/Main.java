@@ -1,6 +1,6 @@
 public class Main {
     public static String greet() {
-        return "Philip G Sanova";
+        return "Philip Sanova";
     }
 
     public static void main(String[] args) {
